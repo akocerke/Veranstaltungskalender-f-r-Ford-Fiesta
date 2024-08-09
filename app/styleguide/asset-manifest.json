@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/build/bundle.14c9984a.js",
+    "logo.png": "/f9ba42fa051167875529.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "build/bundle.14c9984a.js"
+  ]
+}
